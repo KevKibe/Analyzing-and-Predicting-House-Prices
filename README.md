@@ -1,4 +1,4 @@
-# California_housing_data
+# California_housing_data_Analysis and Training
 The data used in this project was colllected in a census conducted in California in 1999. 
 This is a project to predict house prices in california which starts with
  1. exploring the data
